@@ -1,1 +1,4 @@
-# Soft_Engg_Proj_Code
+# Software Engineering Project Code
+
+List of scripts written for CS 5704
+
